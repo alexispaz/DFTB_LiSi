@@ -1,0 +1,38 @@
+======================================================================
+lisi
+======================================================================
+
+Copyright (c) 2023 Ma. B. Oviedo, CONICET - UNC
+Copyright (c) 2023 F. Fernandez, CONICET - UNC
+Copyright (c) 2023 M. Otero, CONICET - UNC
+Copyright (c) 2023 E. P. M. Lieva, CONICET - UNC
+Copyright (c) 2023 S. A. Paz, CONICET - UNC
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, consult the LICENSE file
+or visit http://creativecommons.org/licenses/by-sa/4.0/ .
+
+NOTE: The rights holder(s) for this work explicitly require that the attribution
+conditions of this license are enforced. Use in part or in whole of this data is
+permitted only under the condition that the scientific background of the
+Licensed Material will be CITED IN ANY PUBLICATIONS ARISING FROM ITS USE. The
+required references are specified in this file and must be included in resulting works.
+
+
+Description
+===========
+
+This set of parameters is specifically designed for Li-Si alloys and has been
+validated for crystalline and amorphous structures in a wide range of
+compositions. Special care has been taken to reproduce the formation energies.
+Further details can be found in the main publication, see Required References
+below.
+
+Required Reference
+==================
+
+"Density Functional Tight-Binding Model for Lithium-Silicon Alloys". 
+Ma. B. Oviedo, F. Fernandez, M. Otero, E. P. M. Leiva, S. A. Paz.
+J. Phys. Chem. A 2023.
+ 
+
