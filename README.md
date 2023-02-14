@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/599718663.svg)](https://sandbox.zenodo.org/badge/latestdoi/599718663)
+
 # DFTB Model for Lithium-Silicon Alloys.
 
 This is a data repository to support the main work 
