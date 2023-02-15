@@ -1,4 +1,5 @@
-[![DOI](https://sandbox.zenodo.org/badge/599718663.svg)](https://sandbox.zenodo.org/badge/latestdoi/599718663)
+[![DOI](https://zenodo.org/badge/599718663.svg)](https://zenodo.org/badge/latestdoi/599718663)
+
 
 # DFTB Model for Lithium-Silicon Alloys.
 
