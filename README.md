@@ -7,7 +7,7 @@ This is a data repository to support the main work
 
 > "Density Functional Tight-Binding Model for Lithium-Silicon Alloys". 
 > Ma. B. Oviedo, F. Fernandez, M. Otero, E. P. M. Lieva, S. A. Paz.
-> J. Phys. Chem. A 2023 XXX (X), XXXX-XXXX. DOI: [XXXXX/XXXXXXXXXXXX](https://doi.org/).
+> J. Phys. Chem. A 2023, 127, 11, 2637-2645. DOI: [10.1021/acs.jpca.3c00075](https://doi.org/10.1021/acs.jpca.3c00075).
 
 A preprint of this publication can be found at ChemRxiv, DOI:
 [10.26434/chemrxiv-2022-5s955](https://doi.org/10.26434/chemrxiv-2022-5s955).
@@ -53,5 +53,4 @@ citation for Material Project is:
 
 > "Density Functional Tight-Binding Model for Lithium-Silicon Alloys". 
 > Ma. B. Oviedo, F. Fernandez, M. Otero, E. P. M. Lieva, S. A. Paz.
-> J. Phys. Chem. A 2023 XXX (X), XXXX-XXXX. DOI: [XXXXX/XXXXXXXXXXXX](https://doi.org/).
-
+> J. Phys. Chem. A 2023, 127, 11, 2637-2645. DOI: [10.1021/acs.jpca.3c00075](https://doi.org/10.1021/acs.jpca.3c00075).
